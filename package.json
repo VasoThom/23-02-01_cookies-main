@@ -1,0 +1,26 @@
+{
+  "name": "be-24-logme-in-nlspnsgen",
+  "version": "1.0.0",
+  "description": "Erstelle ein neues Express Projekt mit mongoose. Implementiere Folgendes:",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbw-d05/be-24-logme-in-nlspnsgen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbw-d05/be-24-logme-in-nlspnsgen/issues"
+  },
+  "homepage": "https://github.com/fbw-d05/be-24-logme-in-nlspnsgen#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.6.5"
+  }
+}
